@@ -1,4 +1,4 @@
-n this Project, I intend to show how a basic portscanner works;
+In this Project, I intend to show how a basic portscanner works;
 --I'll import relevant modules
  **sys
  **socket
