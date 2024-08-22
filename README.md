@@ -1,8 +1,13 @@
 In this Project, I intend to show how a basic portscanner works;
+</br>
 --I'll import relevant modules
+</br>
  **sys
+ </br>
  **socket
+ </br>
  **datetime
+ </br>
 --Define my target
  **an if statement to check for length of arguments (argv);
  **maintain appropriate syntax;
